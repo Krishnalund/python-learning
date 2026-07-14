@@ -1,0 +1,9 @@
+Program started.
+Loading modules...
+Java installed successfully.
+Python interpreter detected.
+Compilation completed.
+Program exited.
+
+Python is a programming language.
+I am learning Python.
